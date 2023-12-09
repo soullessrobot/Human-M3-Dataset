@@ -6,6 +6,10 @@ Coming Soon.
 
 🔥 **News**: ```2023/12/10``` Human-M3 dataset is now available!
 
+If you want this dataset, please send an e-mail to fbh19@mails.tsinghua.edu.cn, including full name, organization, country and the purpose for downloading the dataset. By sending the e-mail you accept the following license:
+
+You may use the codes and data for research only, including sharing and modifying the material. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
 ![examples](./assets/examples.png)
 
 ## Introduction
@@ -17,10 +21,6 @@ Coming Soon.
 ![comparisons](./assets/comparison.png)
 
 ![comparison2](./assets/comparison2.png)
-
-If you want this dataset, please send an e-mail to fbh19@mails.tsinghua.edu.cn, including full name, organization, country and the purpose for downloading the dataset. By sending the e-mail you accept the following license:
-
-You may use the codes and data for research only, including sharing and modifying the material. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 ## Data Annotation Pipeline
 
