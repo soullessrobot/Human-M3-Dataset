@@ -2,11 +2,9 @@
 Code and Data for Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes.
 Coming Soon.
 
-### [Paper](https://arxiv.org/abs/2308.00628) | [Project Page](https://github.com/soullessrobot/Human-M3-Dataset) | [Data]()
+### [Paper](https://arxiv.org/abs/2308.00628) | [Project Page](https://github.com/soullessrobot/Human-M3-Dataset) | [Data](http://ivg.au.tsinghua.edu.cn/dataset/Human_M3/Human_M3.html)
 
 🔥 **News**: ```2023/12/10``` Human-M3 dataset is now available!
-
-If you want this dataset, please send an e-mail to fbh19@mails.tsinghua.edu.cn, including full name, organization, country and the purpose for downloading the dataset. By sending the e-mail you accept the [license](./DATA_LICENSE):
 
 ![examples](./assets/examples.png)
 
