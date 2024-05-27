@@ -5,6 +5,7 @@ Coming Soon.
 ### [Paper](https://arxiv.org/abs/2308.00628) | [Project Page](https://github.com/soullessrobot/Human-M3-Dataset) | [Data](http://ivg.au.tsinghua.edu.cn/dataset/Human_M3/Human_M3.html)
 
 🔥 **News**: ```2023/12/10``` Human-M3 dataset is now available!
+🔥 **News**: ```2024/05/27``` Website and download link is now available!
 
 ![examples](./assets/examples.png)
 
